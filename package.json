@@ -1,0 +1,8 @@
+{
+  "name": "ble-firmata-playground",
+  "version": "0.0.1",
+  "author": "Evan Xd <itoyxd@gmail.com>",
+  "dependencies": {
+    "ble-firmata": "0.1.3"
+  }
+}
